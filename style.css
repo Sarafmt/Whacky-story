@@ -1,11 +1,11 @@
 #story-images {
     display: flex;
-    gap: 10px;
+    gap: 20px;
     justify-content: center;
 }
 
 .story-image {
-    max-width: 200px;
+    max-width: 250px;
 }
 
 .image-btn {
